@@ -1,0 +1,12 @@
+C:\Users\ksolanki\Documents\LSUC46BaseStation\BaseStationManager\BaseStationManager\bin\Release\BaseStationManager.exe.config
+C:\Users\ksolanki\Documents\LSUC46BaseStation\BaseStationManager\BaseStationManager\bin\Release\BaseStationManager.exe
+C:\Users\ksolanki\Documents\LSUC46BaseStation\BaseStationManager\BaseStationManager\bin\Release\BaseStationManager.pdb
+C:\Users\ksolanki\Documents\LSUC46BaseStation\BaseStationManager\BaseStationManager\bin\Release\ChilkatDotNet47.dll
+C:\Users\ksolanki\Documents\LSUC46BaseStation\BaseStationManager\BaseStationManager\obj\Release\BaseStationManager.csprojAssemblyReference.cache
+C:\Users\ksolanki\Documents\LSUC46BaseStation\BaseStationManager\BaseStationManager\obj\Release\BaseStationManager.Form1.resources
+C:\Users\ksolanki\Documents\LSUC46BaseStation\BaseStationManager\BaseStationManager\obj\Release\BaseStationManager.Properties.Resources.resources
+C:\Users\ksolanki\Documents\LSUC46BaseStation\BaseStationManager\BaseStationManager\obj\Release\BaseStationManager.csproj.GenerateResource.cache
+C:\Users\ksolanki\Documents\LSUC46BaseStation\BaseStationManager\BaseStationManager\obj\Release\BaseStationManager.csproj.CoreCompileInputs.cache
+C:\Users\ksolanki\Documents\LSUC46BaseStation\BaseStationManager\BaseStationManager\obj\Release\BaseStationManager.csproj.CopyComplete
+C:\Users\ksolanki\Documents\LSUC46BaseStation\BaseStationManager\BaseStationManager\obj\Release\BaseStationManager.exe
+C:\Users\ksolanki\Documents\LSUC46BaseStation\BaseStationManager\BaseStationManager\obj\Release\BaseStationManager.pdb
